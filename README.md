@@ -1,2 +1,4 @@
-# hotstar_clone
-I created a Disney+hotstar clone landing page using html, css and java script
+# hotstar
+Images-and videos
+Star to repo is appreciated.
+This repo only contain images and videos. 
